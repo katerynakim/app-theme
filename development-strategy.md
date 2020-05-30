@@ -70,6 +70,28 @@ This user story consists of showcase (nice backgroung image), core features and 
 * Checked the issue, merged pull request via GiHub.
 * Closed the issue.
 * The same scenario is done for every next branch.
+## 3. Infosection and Footer
+
+This user story was created on branch 3-infosection-footer.
+It includes info section, information about the company and footer.
+
+### HTML
+
+- ifosection is bulid from unordered list which are descibing core features and image
+- information about company was also build up from <ul> and enter email placeholder.
+- added footer
+
+### CSS
+
+- adjusted backgorund color,background color, font, positioning for each section
+
+
+### Last step
+* Updated dev strategy.
+* Created pull request and raised the issue.
+* Checked the issue, merged pull request via GiHub.
+* Closed the issue.
+* The same scenario is done for every next branch.
 
 
 ## Finishing Touches
