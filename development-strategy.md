@@ -136,7 +136,17 @@ The whole about page has been created on this branch.
 * Checked the issue, merged pull request via GiHub.
 * Closed the issue.
 * The same scenario is done for every next branch.
+## 6. 6-media
 
+### CSS
+Added media queries to create a responsive navigation menu, that varies in design on different screen sizes.
+
+### Last step
+* Updated dev strategy.
+* Created pull request and raised the issue.
+* Checked the issue, merged pull request via GiHub.
+* Closed the issue.
+* The same scenario is done for every next branch.
 
 
 ## Finishing Touches
