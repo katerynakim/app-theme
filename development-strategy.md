@@ -1,16 +1,19 @@
 # Development Strategy
 
-> `name-of-project`
+> `HFY M2/W2 Homework Project: CODE ALONG`
 
-write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+The project includes [__app-theme__ tutorial from Traversy Media](https://www.youtube.com/watch?v=qlA7dputiNc) + strategy of creating branches using Collaboration on GitHub.
+The *goals* are:
+* practise CSS and HTML
+* learn how to work with flexboxes and more sophisticated HTML
+* refresh the knowledge of working step-by-step. Creating branches for every commit.
+* collaborating on GitHub, learning how to use pull request feature, creating issues, merging requests.
 
 ## Wireframe
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![wireframe](wireframe\Untitled.png)
 
 ## 0. Set-Up
 
@@ -18,7 +21,7 @@ __A User can see my initial repository and live demo__
 
 ### Repo
 
-- Generate from Template
+- Generate from ![Template](https://github.com/HackYourFutureBelgium/w3-validation-template)
 - Write initial, basic README
 - Turn on GitHub Pages
 
@@ -26,6 +29,7 @@ __A User can see my initial repository and live demo__
 
 Header includes an company name or logo.
 Navigation bar helps the visitor to understand about the content of the webpage or website.
+This User story was creared on branch 1-header-navigation
 
 
 
@@ -52,6 +56,7 @@ Added CSS on nav bar and header.
 ## 2. Showcase and icons
 
 This user story consists of showcase (nice backgroung image), core features and 6 icons.
+The user story was created on branch 2-showcase-icons
 
 ### HTML
 

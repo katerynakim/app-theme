@@ -12,5 +12,12 @@ The *goals* are:
 * Visual Studio Code or different or any other code editor
 * Git Kraken
 # Installation
-* All the steps are described in my development strategy document.
+* All the steps are described in my [development strategy document](https://github.com/katerynakim/app-theme/blob/master/development-strategy.md).
+# Tips
+* For me it was easier to work by following way:
+- to watch full tutorial to get the common picture
+- write full html code and css gather it in one plave
+- think about the development strategy, which User story will be developen on which step
+- add your code according to dev strategy
+- take your time with no rush to keep your branching tidy and accurate.
 
