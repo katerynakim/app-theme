@@ -22,21 +22,32 @@ __A User can see my initial repository and live demo__
 - Write initial, basic README
 - Turn on GitHub Pages
 
-## 1. __
+## 1. Header and Navigation
 
-__full user story description__
+Header includes an company name or logo.
+Navigation bar helps the visitor to understand about the content of the webpage or website.
+
+
 
 ### Repo
+This user story was developed on branch *1-header-navigation*.
 
-what branch(es) did you work on?
 
 ### HTML
 
-what did you change in the HTML and why?
+I have changed the title, added header element.
+Added navigation bar which is build from ul function.
 
 ### CSS
 
-what did you change in the CSS and why?
+Added CSS on nav bar and header.
+
+### Last step
+* Updated dev strategy.
+* Created pull request and raised the issue.
+* Checked the issue, merged pull request via GiHub.
+* The same scenario is done for every next branch.
+
 
 ## 2. ...
 
