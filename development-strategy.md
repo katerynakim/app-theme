@@ -49,11 +49,28 @@ Added CSS on nav bar and header.
 * The same scenario is done for every next branch.
 
 
-## 2. ...
+## 2. Showcase and icons
 
-...
+This user story consists of showcase (nice backgroung image), core features and 6 icons.
 
-...
+### HTML
+
+- showcase (was developed from preloaded template)
+- 6 icon images describing basic core features
+
+### CSS
+
+- Added backfround image as a background.
+- adjusted showcase
+- applied coror to the icons, resized them
+
+### Last step
+* Updated dev strategy.
+* Created pull request and raised the issue.
+* Checked the issue, merged pull request via GiHub.
+* Closed the issue.
+* The same scenario is done for every next branch.
+
 
 ## Finishing Touches
 
