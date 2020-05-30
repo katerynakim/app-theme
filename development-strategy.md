@@ -114,6 +114,29 @@ The whole about page has been created on this branch.
 * Checked the issue, merged pull request via GiHub.
 * Closed the issue.
 * The same scenario is done for every next branch.
+## 5. 5-services
+
+This user story was created on branch 5-services.
+The whole about page has been created on this branch.
+
+### HTML
+
+- added HTML code which consists of header, subheader, main page and information about company(same as in home page), footer
+- information about company was also build up from <ul> and enter email placeholder.
+
+
+### CSS
+
+- added CSS on <ul>
+
+
+### Last step
+* Updated dev strategy.
+* Created pull request and raised the issue.
+* Checked the issue, merged pull request via GiHub.
+* Closed the issue.
+* The same scenario is done for every next branch.
+
 
 
 ## Finishing Touches
