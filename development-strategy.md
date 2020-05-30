@@ -146,11 +146,11 @@ The whole about page has been created on this branch. The template was sed from 
 - added HTML code which consists of header, subheader, main page and information about company(same as in home page), footer
 - added form as a section element
 - changed subheader name
-
+## 7. 7-media
 
 ### CSS
 
-- added CSS on form section
+- added media queries to creare a responsive navigation menu, that varies in design on different screen sizes.
 
 ### Last step
 * Updated dev strategy.
