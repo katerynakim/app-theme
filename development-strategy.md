@@ -13,7 +13,7 @@ The *goals* are:
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe](wireframe\Untitled.png)
+![wireframe](wireframe/Untitled.png)
 
 ## 0. Set-Up
 
